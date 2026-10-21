@@ -21,7 +21,7 @@ I am a **Backend Software Developer** based in Nairobi, Kenya, specializing in r
 
 - **Languages:** Java, JavaScript, SQL, HTML, CSS
 - **Backend & Frameworks:** Spring Boot, Spring Data JPA, Hibernate, Lombok, RESTful APIs
-- **Databases:** PostgreSQL, MySQL, Neon.
+- **Databases:** PostgreSQL, MySQL, Neon,pageAdmin.
 - **DevOps & Deployment:** Docker, Render, Netlify, Vercel, CORS Configuration
 - **Tools & Testing:** Git, GitHub, Postman, Jira (Agile/Scrum), JUnit, Mockito, IntelliJ IDEA, VS Code
 
