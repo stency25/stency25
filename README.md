@@ -6,7 +6,7 @@ I am a **Backend Software Developer** based in Nairobi, Kenya, specializing in r
 
 ---
 
-###  Featured Projects
+###  Featured 
 
 - **[Multi-Tenant-User-Management-API](https://github.com/stency25/Multi-Tenant-User-Management-API)**
   * *Tech Stack:* Java, Spring Boot, PostgreSQL, JUnit, Mockito, Postman
