@@ -9,7 +9,7 @@ I am a **Backend Software Developer** based in Nairobi, Kenya, specializing in r
 ###  Featured projects
 
 - **[Multi-Tenant-User-Management-API](https://github.com/stency25/Multi-Tenant-User-Management-API)**
-  * *Tech Stack:* Java, Spring Boot, PostgreSQL, JUnit, Mockito, 
+  * *Tech Stack:* Java, Spring Boot, PostgreSQL, JUnit, Mockito,postman 
   * *Highlights:* Architecting a REST API featuring row-level tenant isolation, hierarchical Role-Based Access Control (RBAC), credential lifecycle governance, and an asynchronous audit logging service.
 - **[Personal Portfolio Website](https://stency-portfolio.netlify.app/)**
   * *Tech Stack:* Java, Spring Boot, Neon PostgreSQL, Docker, Render, Netlify
