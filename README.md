@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=stency25&color=blue&style=flat-square" alt="Profile Views" />
 
-I am a **Backend Software Developer** based in Nairobi, Kenya, specializing in robust, scalable backend architectures using **Java, Spring Boot, and PostgreSQL**. I did  Business Information Technology at KCA University and bring hands-on experience in building secure RESTful APIs, database integrations, and automated testing
+I am a **Backend Software Developer** based in Nairobi, Kenya, specializing in robust, scalable backend architectures using **Java, Spring Boot, and PostgreSQL**. I did  Business Information Technology at KCA University and bring hands-on experience in building  RESTful APIs, database integrations, and automated testing
 
 ---
 
