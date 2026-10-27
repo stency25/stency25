@@ -1,4 +1,4 @@
-### Hi there, I'm Stency Helen Nabwire 👋
+### Hi there, I'm Stency  Nabwire 👋
 
 <img src="https://komarev.com/ghpvc/?username=stency25&color=blue&style=flat-square" alt="Profile Views" />
 
